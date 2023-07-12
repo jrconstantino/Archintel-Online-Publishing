@@ -21,4 +21,12 @@ by: Justin Constantino
 4. Enter the recepient's email address and the subject of the email
 5. Click Send
 
+Coming Soon Functionalities:
+1. User Registration
+2. Front-end website links
+3. Additional functions on the back-end side
+4. Responsive website
+
+
+Copyright © 2023 ARCHINTEL Publishing. All Rights Reserved.
 
